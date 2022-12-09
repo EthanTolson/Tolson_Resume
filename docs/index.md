@@ -33,11 +33,10 @@ __Highschool Diploma | Graham Kapowsin High School__, Graham, WA
 ## Related Experience
 
 `January 2017 - June 2018`
-__Priest Quorum 1st Assistant | Church of Jesus Christ of Latter-Day Saints__, Graham, WA	
-- Led a group of 8 people in over 12 community-service and Church related activities
-- Prepared sacrament and other Priesthood duties in the Church
-- Presented and Led discussions for a group of 10 people every week for Sunday meetings
-
+__Youth Group Leader | Church of Jesus Christ of Latter-Day Saints__, Graham, WA	
+- Led a group of eight people in over a dozen community-service and Church related activities
+- Helped make preparations for worship services with minimal supervision
+- Presented and led discussions for a group of ten people every week for Sunday meetings
 
 <!-- ### Internships -->
 
