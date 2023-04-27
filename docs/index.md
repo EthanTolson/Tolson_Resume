@@ -42,6 +42,12 @@ __Youth Group Leader | Church of Jesus Christ of Latter-Day Saints__, Graham, WA
 
 ## Service and Work History
 
+`April 2023 - Ongoing`
+__Teachers Assistant for Math 119 Spring Semester | Brigham Young University - Idaho__, Rexburg, ID
+- Graded assignments and provided detailed feedback to students to help them improve their understanding of the material
+- Held office hours to provide one-on-one support to students who needed extra help
+- Received positive feedback from both students and the professor for my dedication to the course and ability to explain complex topics in an understandable way
+
 `March 2016`
 __Eagle Scout | Boy Scouts of America__, Graham, WA	
 - Started Special Olympics Program for Youth Aged 4 - 9 in Bethel SD
