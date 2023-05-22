@@ -42,7 +42,7 @@ __Teachers Assistant for Math 119 Spring Semester | Brigham Young University - I
 
 ## Volunteer Experience
 
-`March 2016`
+`November 2012 - March 2016`
 __Eagle Scout | Boy Scouts of America__, Graham, WA	
 - Started Special Olympics Program for Youth Aged 4 - 9 in Bethel SD
 - Guided a group of 7 scouts as Senior Patrol Leader for Troop 569
@@ -54,6 +54,7 @@ __Youth Group Leader | Church of Jesus Christ of Latter-Day Saints__, Graham, WA
 - Oraganized preparations for worship services with minimal supervision
 - Presented and led discussions for a group of ten people every week for Sunday meetings
 
+<!-- ## Projects -->
 
 ## Skills
 
