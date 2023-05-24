@@ -59,9 +59,9 @@ menu for song selection
 
 ## Technical Skills
 
-- Programming Languages: Python | Java | SQL | HTML | CSS
-- Libraries: TensorFlow | Pandas | Seaborn | Scikit-learn | Matplotlib | NumPy | PySpark | tkinter
-- Technologies: Git/GitHub | MySQL Workbench | Data Analysis | Machine Learning | Virtual Machines | Excel
+- __Programming Languages:__ Python, Java, SQL, HTML, CSS
+- __Libraries:__ TensorFlow, Pandas, Seaborn, Scikit-learn, Matplotlib, NumPy, PySpark, tkinter
+- __Technologies:__ Git/GitHub, MySQL Workbench, Data Analysis, Machine Learning, Virtual Machines, Excel
 
 ## Volunteer Experience
 
