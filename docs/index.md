@@ -18,7 +18,7 @@ __Bachelor of Science, Computer Science | Brigham Young University - Idaho__, Re
 
 - 4.0 Major GPA
 - Certificates: Computer Programming
-- Member | Association for Computing Machinery (ACMW)
+- Member, Association for Computing Machinery (ACMW)
 
 <!-- ### Internships -->
 
