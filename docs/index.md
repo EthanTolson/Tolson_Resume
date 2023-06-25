@@ -16,11 +16,16 @@ title: Ethan Tolson's Resume
 `September 2018 - Present`
 __Bachelor of Science, Computer Science | Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
 - Certificates: Computer Programming
 - Member, Association for Computing Machinery (ACMW)
 
 <!-- ### Internships -->
+
+## Technical Skills
+
+- __Programming Languages:__ Python, Java, SQL, HTML, CSS
+- __Libraries:__ TensorFlow, Pandas, Seaborn, Scikit-learn, Matplotlib, NumPy, PySpark, tkinter
+- __Technologies:__ Git/GitHub, MySQL Workbench, Data Analysis, Machine Learning, Virtual Machines, Excel
 
 ## Work Experience
 
@@ -34,29 +39,23 @@ __Teachers Assistant for Math 119 Spring Semester | Brigham Young University - I
 ## Key Projects
 
 `March 2023 - April 2023`
-__Email for the Visually Impaired | Python, MongoDB | Rexburg, ID__ 
+__Email for the Visually Impaired | Python, MongoDB__ 
 - Developed a voice control system using Python allowing users to convert speech to text and vice versa
 - Designed file management functions to handle temporary audio files created during speech-to-text and text-to-speech conversions
 - Integrated the SMTPlib library to securely send emails using the SMTP protocol. The system supports SSL encryption for secure communication with the Gmail SMTP server
 - Implemented methods to retrieve email addresses from the address book stored in a MongoDB database, delivering a convenient way to access and manage contact information
 
 `June 2022 - June 2022`
-__Stock Data Analysis | Python, Pandas, NumPy | Rexburg, ID__ 
+__Stock Data Analysis | Python, Pandas, NumPy__ 
 - Applied a method to display graphs based on user input, allowing visualization of stock prices over time
 - Developed a date conversion method to convert dates from the "YYYY-MM-DD" format to the "MM/DD/YYYY" format for better readability
 - Constructed methods to arrange the columns of both data sets, ensuring consistent order for analysis
 
 `June 2022 - June 2022`
-__Simple Music Player | Java | Rexburg, ID__ 
+__Simple Music Player | Java__ 
 - Implemented MIDI file loading and sequencing using the Java Sound API
 - Created a graphical user interface (GUI) using Java Swing, featuring buttons for controlling playback and a dropdown menu for song selection
 - Generated functionality for starting, stopping, and pausing the song playback
-
-## Technical Skills
-
-- __Programming Languages:__ Python, Java, SQL, HTML, CSS
-- __Libraries:__ TensorFlow, Pandas, Seaborn, Scikit-learn, Matplotlib, NumPy, PySpark, tkinter
-- __Technologies:__ Git/GitHub, MySQL Workbench, Data Analysis, Machine Learning, Virtual Machines, Excel
 
 ## Volunteer Experience
 
