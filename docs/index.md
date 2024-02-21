@@ -23,14 +23,14 @@ __Bachelor of Science, Computer Science | Brigham Young University - Idaho__, Re
 
 ## Technical Skills
 
-- __Programming Languages:__ Python, Java, SQL, HTML, CSS
+- __Programming Languages:__ Python, SQL, HTML, CSS
 - __Libraries:__ TensorFlow, Pandas, Seaborn, Scikit-learn, Matplotlib, NumPy, PySpark, tkinter
 - __Technologies:__ Git/GitHub, MySQL Workbench, Data Analysis, Machine Learning, Virtual Machines, Excel
 
 ## Work Experience
 
-`April 2023 - Present`
-__Teachers Assistant for Math 119 Spring Semester | Brigham Young University - Idaho__, Rexburg, ID
+`April 2023 - July 2023`
+__Teachers Assistant - Applied Calculus for Data Analytics | Brigham Young University - Idaho__, Rexburg, ID
 - Graded assignments and provided detailed feedback to students to help them improve their understanding of the material
 - Held office hours to provide one-on-one support to students who needed extra help
 - Received positive feedback from both students and the professor for my dedication to the course and ability to explain complex topics in an understandable way
@@ -38,20 +38,20 @@ __Teachers Assistant for Math 119 Spring Semester | Brigham Young University - I
 
 ## Key Projects
 
-`March 2023 - April 2023`
+
 __Email for the Visually Impaired | Python, MongoDB__ 
 - Developed a voice control system using Python allowing users to convert speech to text and vice versa
 - Designed file management functions to handle temporary audio files created during speech-to-text and text-to-speech conversions
 - Integrated the SMTPlib library to securely send emails using the SMTP protocol. The system supports SSL encryption for secure communication with the Gmail SMTP server
 - Implemented methods to retrieve email addresses from the address book stored in a MongoDB database, delivering a convenient way to access and manage contact information
 
-`June 2022 - June 2022`
+
 __Stock Data Analysis | Python, Pandas, NumPy__ 
 - Applied a method to display graphs based on user input, allowing visualization of stock prices over time
 - Developed a date conversion method to convert dates from the "YYYY-MM-DD" format to the "MM/DD/YYYY" format for better readability
 - Constructed methods to arrange the columns of both data sets, ensuring consistent order for analysis
 
-`June 2022 - June 2022`
+
 __Simple Music Player | Java__ 
 - Implemented MIDI file loading and sequencing using the Java Sound API
 - Created a graphical user interface (GUI) using Java Swing, featuring buttons for controlling playback and a dropdown menu for song selection
